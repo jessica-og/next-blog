@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^5.7.5",
     "@clerk/themes": "^2.1.42",
+    "cloudinary": "^2.7.0",
     "firebase": "^11.0.1",
     "flowbite-react": "^0.10.2",
     "highlight.js": "^11.11.1",
